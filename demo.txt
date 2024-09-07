@@ -1,0 +1,207 @@
+This is the bad ending 2.
+y
+type s
+type h
+type e
+go n
+go s
+go w
+go w
+
+This is the bad ending 1.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+go w
+
+This is the bad ending 3.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+use smoke bomb
+
+This is the bad ending 4.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+go e
+use smoke bomb
+
+This is the bad ending 5.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+go w
+take Mona Lisa
+drop Mona Lisa
+take paint brush
+drop paint brush
+take Mona Lisa
+take paint brush
+
+This is the bad ending 6.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+take gun
+throw gun
+
+This is the bad ending 7.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+go w
+take Mona Lisa
+go w
+go w
+
+This is the bad ending 8.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+examine guards
+go w
+take Mona Lisa
+go w
+drop smoke mask
+
+This is the bad ending 9.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+examine guards
+go w
+take Mona Lisa
+go w
+inventory
+go e
+drop smoke mask
+drop guard uniform
+drop smoke bomb
+inventory
+go w
+go n
+press fire alarm
+drop Mona Lisa
+go n
+
+This is the bad ending 10.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+examine guards
+go w
+take Mona Lisa
+go w
+inventory
+go e
+drop smoke mask
+drop guard uniform
+drop smoke bomb
+inventory
+go w
+go n
+examine exit door
+examine fire alarm
+press fire alarm
+examine exit door
+examine fire alarm
+go n
+
+This is the good ending.
+type e
+go s
+take guard uniform
+take smoke mask
+take smoke bomb
+go w
+put on guard uniform
+put on smoke mask
+use smoke bomb
+examine guards
+go w
+take Mona Lisa
+go w
+inventory
+go e
+drop smoke mask
+drop smoke bomb
+inventory
+go w
+go n
+press fire alarm
+go n
+grojgorjg
+y
+
+Other commands
+restart
+n
+restart
+y
+help
+look
+look around
+examine keyboard
+examine door
+get door
+get keyboard
+examine door
+type e
+examine door
+go s
+take smoke bomb
+inventory
+drop smoke bomb
+inventory
+
+quit
